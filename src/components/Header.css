@@ -1,0 +1,18 @@
+
+.logo {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: 0rem;
+}
+
+header {
+    width: 100%;
+    max-width: 420px;
+    min-height: 250px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    padding: 4rem;
+    background-color: rgba(0,0,0,0.4)
+}
